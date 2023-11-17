@@ -17,9 +17,11 @@
 + Uso básico de lenguajes de programación
     + Java
     + Python
-+ Uso básico de lenguajes de desarrollo web
++ Uso básico de lenguajes y herramientas de desarrollo web
     + HTML
     + CSS
+    + Wordpress
+    + Moodle
 + Conocimientos practicos de redes locales y hardware
 
 ### Idiomas
@@ -27,3 +29,7 @@
 + Gallego (Segunda Lengua)
 + Inglés (Medio)
 
+### Mis Códigos
+[Muestra](./muestra.md)
+#### Repositorio GitHub
+[![insects](./insects.png)](https://github.com/a23danielpc/insects.git)
